@@ -1,0 +1,16 @@
+Package: GLASMcensor
+Type: Package
+Title: The Glaph Laplacian Augmented Screening Method for High
+        Dimensional Censored Data
+Version: 0.1
+Date: 2020-07-16
+Author: Anonymous author for double blind
+Maintainer: Anonymous author for double blind <anonymous@anonymous.com>
+Description: The Glaphical Laplacian Augmented Screening Method for high dimensional censored data. It contains a robust marginal screening 
+                method and two network augmented method: the Glaph Laplacian augmentation and the PageRank Augmentation.
+License: GPL (>= 2)
+Imports: SparseM,methods,Rcpp (>= 1.0.4.6)
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 7.1.1
+NeedsCompilation: yes
+Packaged: 2020-07-29 07:09:01 UTC;
